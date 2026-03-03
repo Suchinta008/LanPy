@@ -84,25 +84,6 @@ SQLite (Local DB)           SQLite (Local DB)
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots inside `assets/screenshots/`:
-
-```
-assets/screenshots/
-    ├── main_ui.png
-    ├── chat_example.png
-```
-
-Then include:
-
-```
-![Main UI](assets/screenshots/main_ui.png)
-![Chat Example](assets/screenshots/chat_example.png)
-```
-
----
-
 # 📂 Project Structure
 
 ```
